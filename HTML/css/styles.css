@@ -1,0 +1,19 @@
+.text-center {
+    text-align: center;
+    color: aqua;
+}
+
+.color-grey {
+    color: grey;
+}
+
+span {
+    font-size: 20px;
+}
+
+span.red {
+    color: red;
+}
+/* #newid {
+
+} */

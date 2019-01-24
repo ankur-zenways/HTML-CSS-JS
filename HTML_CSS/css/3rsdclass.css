@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+}
+
+body {
+    /* background-color: lightgrey; */
+    /* background-image: url(https://www.gettyimages.ie/gi-resources/images/Homepage/Hero/UK/CMS_Creative_164657191_Kingfisher.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background: -webkit-gradient(linear, left top, right top, from(#005aa7), to(#fffde4));
+    background: linear-gradient(to right, #005aa7, #fffde4);
+}
+
+h1 {
+    color: #C2185B;
+    text-align: center;
+    font-size: 40px;
+}
+
+.para2 {
+    margin-left: 20px;
+    margin-right:20px;
+    max-height: 100px;
+    max-width: 100px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
